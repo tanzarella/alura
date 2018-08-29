@@ -1,5 +1,3 @@
-teste
-
 Primeira aula do curso de git
 
 O mio Signore
